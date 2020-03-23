@@ -225,8 +225,8 @@ repositories:
     version: master
   ros2/rcl_interfaces:
     type: git
-    url: https://github.com/brawner/rcl_interfaces.git
-    version: remove_parametereventdescriptors
+    url: https://github.com/ros2/rcl_interfaces.git
+    version: master
   ros2/rcl_logging:
     type: git
     url: https://github.com/ros2/rcl_logging.git
@@ -253,8 +253,8 @@ repositories:
     version: master
   ros2/rmw:
     type: git
-    url: https://github.com/ros2/rmw.git
-    version: master
+    url: https://github.com/brawner/rmw.git
+    version: add_tests
   ros2/rmw_connext:
     type: git
     url: https://github.com/ros2/rmw_connext.git
