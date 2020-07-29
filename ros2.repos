@@ -242,7 +242,7 @@ repositories:
   ros2/rcl:
     type: git
     url: https://github.com/ros2/rcl.git
-    version: master
+    version: brawner/rcl-fault-injection-combined
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
@@ -250,7 +250,7 @@ repositories:
   ros2/rcl_logging:
     type: git
     url: https://github.com/ros2/rcl_logging.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/rclcpp:
     type: git
     url: https://github.com/ros2/rclcpp.git
@@ -266,7 +266,7 @@ repositories:
   ros2/rcutils:
     type: git
     url: https://github.com/ros2/rcutils.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/realtime_support:
     type: git
     url: https://github.com/ros2/realtime_support.git
@@ -274,7 +274,7 @@ repositories:
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/rmw_connext:
     type: git
     url: https://github.com/ros2/rmw_connext.git
@@ -286,11 +286,11 @@ repositories:
   ros2/rmw_dds_common:
     type: git
     url: https://github.com/ros2/rmw_dds_common.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/ros2/rmw_fastrtps.git
-    version: master
+    version: brawner/rmw_fastrtps-init-fini-bugs
   ros2/rmw_implementation:
     type: git
     url: https://github.com/ros2/rmw_implementation.git
@@ -318,7 +318,7 @@ repositories:
   ros2/rosidl:
     type: git
     url: https://github.com/ros2/rosidl.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/rosidl_dds:
     type: git
     url: https://github.com/ros2/rosidl_dds.git
@@ -338,7 +338,7 @@ repositories:
   ros2/rosidl_typesupport:
     type: git
     url: https://github.com/ros2/rosidl_typesupport.git
-    version: master
+    version: brawner/fault-injection-macros
   ros2/rosidl_typesupport_connext:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_connext.git
