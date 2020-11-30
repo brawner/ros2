@@ -21,8 +21,8 @@ repositories:
     version: main
   ament/googletest:
     type: git
-    url: https://github.com/ament/googletest.git
-    version: ros2
+    url: https://github.com/brawner/googletest.git
+    version: brawner/cmake-2.8.12
   ament/uncrustify_vendor:
     type: git
     url: https://github.com/ament/uncrustify_vendor.git
