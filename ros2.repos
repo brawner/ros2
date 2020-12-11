@@ -21,8 +21,8 @@ repositories:
     version: main
   ament/googletest:
     type: git
-    url: https://github.com/brawner/googletest.git
-    version: brawner/cmake-2.8.12
+    url: https://github.com/ament/googletest.git
+    version: ros2
   ament/uncrustify_vendor:
     type: git
     url: https://github.com/ament/uncrustify_vendor.git
@@ -173,8 +173,8 @@ repositories:
     version: galactic-devel
   ros/urdfdom_headers:
     type: git
-    url: https://github.com/ros/urdfdom_headers.git
-    version: master
+    url: https://github.com/brawner/urdfdom_headers.git
+    version: brawner/float-compare-zero
   ros/urdfdom:
     type: git
     url: https://github.com/ros/urdfdom.git
